@@ -1,0 +1,18 @@
+{
+  "uniqueProductId": "f3d9364f-df92-4ec9-b1c6-aefc10849107",
+  "productCode": "DDA",
+  "productSubCode": "AAA",
+  "productName": "ANZ Rewards June Eric",
+  "endDate": "0001-01-01T00:00:00.000Z",
+  "rates": {
+    "rt1": {
+      "rateType": "base",
+      "rateValue": 1
+    },
+    "rt2": {
+      "rateType": "bonus",
+      "rateValue": 5
+    }
+  },
+  "parents": null
+}

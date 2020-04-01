@@ -2,12 +2,12 @@
   "uniqueProductId": "f32127de-6e61-4754-8074-baed3e6a86ad",
   "productCode": "DDA",
   "productSubCode": "AAA",
-  "productName": "ANZ Rewards June",
+  "productName": "ANZ Rewards June updated name",
   "endDate": "0001-01-01T00:00:00.000Z",
   "rates": {
     "rt1": {
       "rateType": "base",
-      "rateValue": 1
+      "rateValue": 4
     },
     "rt2": {
       "rateType": "bonus",
